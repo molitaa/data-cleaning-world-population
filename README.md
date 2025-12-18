@@ -3,7 +3,7 @@
 This repository contains my work on cleaning and preparing a world population dataset for analysis.
 
 ## Project Overview
-- Dataset: 
+- Dataset: World Population by Country 2025 (source: Kaggle https://www.kaggle.com/datasets/asadullahcreative/world-population-by-country-2025 )
 - My role: Data cleaning and preparation
 - Tools used: Python, Google Colab, pandas
 
